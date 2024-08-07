@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1723045480,
-      "filename": "lineage-21-2024080715-RELEASE-oscar.zip",
-      "id": "989cee6d97333c2a321e71928f86e992a085eea2765bd102a81a117a12e2c66b",
+      "datetime": 1723056116,
+      "filename": "lineage-21-2024080718-RELEASE-oscar.zip",
+      "id": "54e1508a97c3d957fc1a3a7fd683263a0366c9711757c158e273f48adc900f48",
       "romtype": "RELEASE",
-      "size": 2278833964,
-      "url": "https://ota.hackneyed.workers.dev/0:/oscar/lineage-21-2024080715-RELEASE-oscar.zip",
+      "size": 2278832502,
+      "url": "https://ota.hackneyed.workers.dev/0:/oscar/lineage-21-2024080718-RELEASE-oscar.zip",
       "version": "21.0"
     }
   ]
