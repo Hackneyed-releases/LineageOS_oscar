@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1724098953,
-      "filename": "lineage-21-2024081920-RELEASE-oscar.zip",
-      "id": "142383d9baf645d271d7ced02c10398c62557c4a9de329397b7cf0f7a4cf801c",
+      "datetime": 1724144139,
+      "filename": "lineage-21-2024082008-RELEASE-oscar.zip",
+      "id": "126a59d7b096e83c435579222013df15499a5044b7cb8cb2bc3b1b779420f8ad",
       "romtype": "RELEASE",
-      "size": 2254027755,
-      "url": "https://download.hackneyedota.workers.dev/0:/oscar/lineage-21-2024081920-RELEASE-oscar.zip",
+      "size": 2360957514,
+      "url": "https://download.hackneyedota.workers.dev/0:/oscar/lineage-21-2024082008-RELEASE-oscar.zip",
       "version": "21.0"
     }
   ]
