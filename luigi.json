@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1723349656,
-      "filename": "lineage-21-2024081104-RELEASE-luigi.zip",
-      "id": "5ac32a16bf50e68fe60e15f8aed61837f4f2fdf8e62be7ccce6b65780df7c05e",
+      "datetime": 1731418782,
+      "filename": "lineage-22.0-2024111213-RELEASE-luigi.zip",
+      "id": "2e7c35d54b647a5b92d0855474874003efedf640d788c0389eb736f4784aa9a7",
       "romtype": "RELEASE",
-      "size": 1548376375,
-      "url": "https://ota.hackneyed.workers.dev/0:/luigi/lineage-21-2024081104-RELEASE-luigi.zip",
-      "version": "21.0"
+      "size": 1650757488,
+      "url": "https://github.com/Hackneyed-releases/luigi/releases/download/12112024/lineage-22.0-2024111213-RELEASE-luigi.zip",
+      "version": "22.0"
     }
   ]
 }
